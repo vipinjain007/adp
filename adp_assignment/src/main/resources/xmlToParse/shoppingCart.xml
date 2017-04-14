@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShoppingCart>
+	<itemID>000001</itemID>
+	<itemCategoryID>003</itemCategoryID>
+	<itemName>Muesli</itemName>
+	<unitPrice>100</unitPrice>
+	<quantity>2</quantity>
+	<itemID>000002</itemID>
+	<itemCategoryID>005</itemCategoryID>
+	<itemName>Mens Tshirt Arrow 3463</itemName>
+	<unitPrice>1536</unitPrice>
+	<quantity>1</quantity>
+	<itemID>000003</itemID>
+	<itemCategoryID>002</itemCategoryID>
+	<itemName>Organic Tomatoes</itemName>
+	<unitPrice>10</unitPrice>
+	<quantity>2</quantity>
+	<itemID>000004</itemID>
+	<itemCategoryID>001</itemCategoryID>
+	<itemName>Wipro CFL</itemName>
+	<unitPrice>120</unitPrice>
+	<quantity>1</quantity>
+</ShoppingCart>

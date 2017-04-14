@@ -1,0 +1,29 @@
+{
+  "category": [
+    {
+      "id": "001",
+      "name": "ConsumerGoods",
+      "discPerc": "5"
+    },
+    {
+      "id": "002",
+      "name": "OrganicFood",
+      "discPerc": "7"
+    },
+    {
+      "id": "003",
+      "name": "Grocery",
+      "discPerc": "2"
+    },
+    {
+      "id": "004",
+      "name": "BabyProducts",
+      "discPerc": "10"
+    },
+    {
+      "id": "005",
+      "name": "Apparrel",
+      "discPerc": "15"
+    }
+  ]
+}

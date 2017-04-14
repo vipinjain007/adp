@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlatDiscountSlabs>
+	<Slab>
+		<RangeMin>0</RangeMin>
+		<RangeMax>3000</RangeMax>
+		<discPerc>2</discPerc>
+	</Slab>
+	<Slab>
+		<RangeMin>3001</RangeMin>
+		<RangeMax>7000</RangeMax>
+		<discPerc>4</discPerc>
+	</Slab>
+	<Slab>
+		<RangeMin>7000</RangeMin>
+		<RangeMax></RangeMax>
+		<discPerc>5</discPerc>
+	</Slab>
+	</FlatDiscountSlabs>
